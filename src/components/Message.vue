@@ -99,6 +99,8 @@ watch(
     .name {
       width: 100%;
       padding-left: 22px;
+      transform: translateY(-8px);
+      font-family: "Pacifico-Regular";
 
       .bg {
         font-size: 5rem;
